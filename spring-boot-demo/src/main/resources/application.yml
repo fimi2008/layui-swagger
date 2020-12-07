@@ -1,0 +1,19 @@
+---
+server:
+  port: 8080
+#  servlet:
+#    context-path: /test/test
+---
+spring:
+  application:
+    name: swagger-ui
+# Swagger设置
+swagger:
+  enable: true
+  version: 1.0
+  title: 测试项目
+  description: 测试项目，查询demo
+  contact:
+    name: wangxiang
+    url: 暂无
+    mail: vonshine15@163.com
